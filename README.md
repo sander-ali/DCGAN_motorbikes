@@ -8,16 +8,16 @@ The repository structure should be as follows:
 
 working directory  
 data  
----| 101_objectCategories
+|__ 101_objectCategories
 
 
-    ---| Motorbike  
-        ---| image_0001  
-        ---| image_0002  
-        ---| ...  
-        ---| image_0798  
----| dcgan_mbikes  
----| utils  
+    |___ Motorbike  
+        |___ image_0001  
+        |___ image_0002  
+        |___ ...  
+        |___ image_0798  
+|___ dcgan_mbikes  
+|___ utils  
 
 The code is based on Tensorflow. Before running the code make sure you install the following packages  
 tensorflow  
