@@ -8,7 +8,9 @@ The repository structure should be as follows:
 
 working directory  
 data  
----| 101_objectCategories  
+---| 101_objectCategories
+
+
     ---| Motorbike  
         ---| image_0001  
         ---| image_0002  
